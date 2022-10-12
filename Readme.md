@@ -12,6 +12,7 @@ After the process of visualising and pre-processing the dataset provided from th
 
 
 **[DATASET](https://archive.ics.uci.edu/ml/machine-learning-databases/molecular-biology/promoter-gene-sequences/promoters.data) description:** 
+
   1.Title of Database: E. coli promoter gene sequences (DNA)
                       with associated imperfect domain theory
 
@@ -24,23 +25,33 @@ After the process of visualising and pre-processing the dataset provided from th
    -- 57 sequential nucleotide ("base-pair") positions
 
   4. Attribute information:
-   -- Statistics for numeric domains: No numeric features used.
-   -- Statistics for non-numeric domains
-      -- Frequencies:  Promoters Non-Promoters
-                       --------- -------------
-               A        27.7%     24.4%
-               G        20.0%     25.4%
-               T        30.2%     26.5%
-               C        22.1%     23.7%
 
-   Attribute #:  Description:
-   ============  ============
-             1   One of {+/-}, indicating the class ("+" = promoter).
-             2   The instance name (non-promoters named by position in the
-                 1500-long nucleotide sequence provided by T. Record).
-          3-59   The remaining 57 fields are the sequence, starting at 
-                 position -50 (p-50) and ending at position +7 (p7). Each of
-                 these fields is filled by one of {a, g, t, c}.
+
+     Description:
+     
+               1   One of {+/-}, indicating the class ("+" = promoter).
+               
+               2   The instance name (non-promoters named by position in the 1500-long nucleotide sequence provided by T. Record).
+                 
+               3-59 The remaining 57 fields are the sequence, starting at position -50 (p-50) and ending at position +7 (p7). 
+               Each of these fields is filled by one of {a, g, t, c}.
+                        
+                        
+  
+   -- Statistics for numeric domains: No numeric features used.
+   
+   -- Statistics for non-numeric domains:  
+   
+                                        Frequencies:  Promoters Non-Promoters
+                     
+                                                  A        27.7%     24.4%
+                                                  G        20.0%     25.4%
+                                                  
+                                                  T        30.2%     26.5%
+                                                  C        22.1%     23.7%
+
+
+
 
   5. Missing Attribute Values: none
 

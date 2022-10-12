@@ -11,6 +11,13 @@ After the process of visualising and pre-processing the dataset provided from th
 
 
 
+![Promoters](https://cdn.kastatic.org/ka-perseus-images/a1541486673e01a5ce609108061d3a205d0897ca.png)
+
+
+
+
+
+
 **About the [DATASET](https://archive.ics.uci.edu/ml/machine-learning-databases/molecular-biology/promoter-gene-sequences/promoters.data):** 
 
   1.Title of Database: E. coli promoter gene sequences (DNA)

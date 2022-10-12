@@ -1,1 +1,5 @@
-.
+.DNA Sequence Classification using Machine Learning
+
+Introduction
+
+In genetics, a promoter is a region of DNA where transcription of a gene is initiated. Promoters are a vital component of expression vectors because they control the binding of RNA polymerase to DNA. RNA polymerase transcribes DNA to mRNA which is ultimately translated into a functional protein. Thus the promoter region controls when and where in the organism your gene of interest is expressed.

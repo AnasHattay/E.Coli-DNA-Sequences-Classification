@@ -11,7 +11,7 @@ After the process of visualising and pre-processing the dataset provided from th
 
 
 
-**[DATASET](https://archive.ics.uci.edu/ml/machine-learning-databases/molecular-biology/promoter-gene-sequences/promoters.data) description:** 
+**About the [DATASET](https://archive.ics.uci.edu/ml/machine-learning-databases/molecular-biology/promoter-gene-sequences/promoters.data):** 
 
   1.Title of Database: E. coli promoter gene sequences (DNA)
                       with associated imperfect domain theory

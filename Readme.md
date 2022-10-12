@@ -1,4 +1,4 @@
-## DNA sequences of E.coli bacteria classification using Machine Learning algorithms :
+## DNA sequences of E.coli bacteria classification using Machine Learning algorithms 
 
 
 In life science, study of DNA is an important factor of understanding about organisms. DNA carries most of the genetic instructions of development, functioning, and reproduction in all organisms. Nowadays, with development of sequencing technologies, we can easily read a DNA sequence
